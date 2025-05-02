@@ -57,7 +57,7 @@ params:
           enabled: true
           title: DAMASC Project
           subtitle: "DAMASC: Dynamic Analysis, Modeling and Adaptive Support for Collaborative Writing project aims at developing a system for analysis and support of collaborative writing at scale. It is collaborative project between the Humboldt-Universität zu Berlin and FernUniversität in Hagen."
-          imageUrl: "picture.jpeg"
+          imageUrl: "damasc_white.png"
           imageWidth: 160
           imageHeight: 160
           buttons:
