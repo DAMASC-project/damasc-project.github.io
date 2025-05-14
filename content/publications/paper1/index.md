@@ -1,18 +1,18 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
-lastmod: 2024-07-12
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
+title: "Teacher Dashboard für das Monitoring von Gruppen in kollaborativen Schreibprozessen" 
+date: 2023-09-30
+lastmod: 2025-05-14
+tags: ["teacher dashboard","collaborative writing","collaborative learning ","bachelor thesis"]
+author: ["Jan Hofmann"]
 description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
 summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
 cover:
-    image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    image: "thesis1.jpeg"
+    alt: "Teacher Dashboard für das Monitoring von Gruppen in kollaborativen Schreibprozessen"
     relative: false
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    Text: "FernUni Abschlussarbeiten"
 
 ---
 
@@ -34,7 +34,7 @@ This paper reviews unusual uses for olive oil throughout the Mediterranean world
 
 ##### Figure 6: Some Uses For Olive Oil
 
-![](paper1.png)
+![](thesis1.jpeg)
 
 ---
 
@@ -43,15 +43,15 @@ This paper reviews unusual uses for olive oil throughout the Mediterranean world
 Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
 
 ```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+@phdthesis{BA-Hofmann2023,
+author = {Hofmann, Jan},
+number = {September},
+pages = {63},
+school = {FernUniversit{\"{a}}t in Hagen},
+title = {{Teacher Dashboard f{\"{u}}r das Monitoring von Gruppen in kollaborativen Schreibprozessen}},
+type = {Bachelorarbeit},
+year = {2023}
+}
 ```
 
 ---

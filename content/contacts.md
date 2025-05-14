@@ -1,8 +1,8 @@
 ---
-title: "Location"
-date: 2024-04-24
+title: "Contacts"
+date: 2025-04-24
 hidemeta: true
-description: "Location of Jakub Kuzilek and Niels Seidel offices"
+description: "Contact informations"
 ---
 
 #### Humboldt-Universität zu Berlin
